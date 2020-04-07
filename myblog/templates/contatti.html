@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% load static %}
+<title>{% block head_title%}{{block.super}} | Contatti{% endblock %}</title>
+
+{% block content %}
+        
+    <h1>Contatti</h1>
+
+    <h2>Chiamami bello biondo</h2>
+    <center> <img class="img-responsive" src="{% static 'post/img/img.jpg' %}"/> </center>
+{% endblock content %}

@@ -1,0 +1,20 @@
+h1 {
+    color: green
+}
+h2{ 
+    color: red
+}
+footer{
+    padding: 40px;
+    background-color: rgb(2, 255, 23);
+    text-align: center;
+}
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+.contenuto{
+    min-height: 95%;
+    padding-bottom: 40px;
+}
