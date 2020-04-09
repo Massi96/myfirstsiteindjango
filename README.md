@@ -7,4 +7,3 @@ I use:
 * Python
 * html
 * CSS
-* ciao
